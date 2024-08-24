@@ -80,7 +80,7 @@
         "",
         "%c              %c %c      ",
         "%c                  ",
-        "%c    Bryan Smith ",
+        "%c    Ahmad Thameem ",
         "%c         ",
         "%c      %c %c             ",
         "",
